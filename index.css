@@ -1,0 +1,98 @@
+.ul-sty{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    text-align:;
+    list-style: none;
+}
+
+.head-sty{
+justify-content: space-around;
+
+
+
+}
+.fast-sectoin{
+    display: flex;
+    justify-content: center;
+}
+
+.text-fast{
+    height: 270px;
+    width: 582px;
+}
+.h1-syl{
+    text-size-adjust: 52;
+}
+
+
+
+.button-sty{
+    width: 196px;
+    height: 44px;
+    background-color: #b91212c9;
+    
+}
+
+.logos-sty{
+    justify-content: center;
+    display: flex;
+    justify-items: normal;
+    height: 110;
+    width: 1110;
+    margin-top: 50px;
+    
+    
+    
+}
+
+.photo-sty{
+    /* justify-content: center; */
+    /* display: grid; */
+   
+   /* width: 1047px;
+   height: 1662px; */
+   grid-template-columns: repeat(3,1fr);
+   margin-top: 40px;
+   display: grid;
+   gap: 5rem;
+   padding: 5%;
+}
+
+.Popular{
+    text-align: center;
+    margin-top: 100px;
+}
+.gear-img{
+    
+}
+
+.gear-sec{
+display: flex;
+margin-top: 100px;
+justify-content: center;
+}
+.gear-text{
+    width: 610px;
+    height: 224px;
+}
+
+.Influencer-text{
+    justify-content: center;
+    text-align: center;
+    width: 262px;
+    height: 139px;
+    padding: 30px;
+    color: aliceblue;
+    justify-content: center;
+
+}
+
+.Influencer{
+    background-color: black;
+    
+}
+
+.title-text{
+
+}
