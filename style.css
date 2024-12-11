@@ -25,12 +25,17 @@ justify-content: space-around;
     text-size-adjust: 52;
 }
 
+.camera-img{
+    background-image: i;
+}
+
 
 
 .button-sty{
     width: 196px;
     height: 44px;
-    background-color: #b91212c9;
+    background-color: #E02C6D;
+    padding: 10px 24px;
     
 }
 
@@ -70,11 +75,13 @@ justify-content: space-around;
 .gear-sec{
 display: flex;
 margin-top: 100px;
+margin-bottom: 100px;
 justify-content: center;
 }
 .gear-text{
     width: 610px;
     height: 224px;
+    margin-left: 100px;
 }
 
 .Influencer-text{
@@ -84,13 +91,19 @@ justify-content: center;
     height: 139px;
     padding: 30px;
     color: aliceblue;
-    justify-content: center;
-
+    margin-left: 500px;
+    
+    
+}
+.button-sty2{
+    border: none;
+    padding: 10px 24px;
+    background-color: #E02C6D ;
 }
 
 .Influencer{
     background-color: black;
-    
+    text-align: center;
 }
 
 .title-text{
